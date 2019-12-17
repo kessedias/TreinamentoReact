@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to To-do List 👋</h1>
 <p>
-    <img align="center" alt="License: ISC" src="/src/img/tela.png">
+    <img align="center" alt="Tela" src="src/img/tela.png">
   </a>
 </p>
 
