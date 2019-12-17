@@ -9,9 +9,10 @@
 
 ## Instructions
 
-1º - npm i
-2º - npm run dev
-3º - Enjoy!
+<p>1º - npm i</p>
+<p>2º - npm run dev</p>
+<p>3º - Enjoy!</p>
+
 
 ## Author
 
