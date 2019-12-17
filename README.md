@@ -7,18 +7,15 @@
 ### 🏠 [Homepage](https://github.com/kessedias/TreinamentoReact)
 
 
-## Run tests
+## Instructions
 
-
-npm run dev
+1º - npm i
+2º - npm run dev
+3º - Enjoy!
 
 ## Author
 
 * Github: [@kessedias](https://github.com/kessedias)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/kessedias/TreinamentoReact/issues). You can also take a look at the [contributing guide](https://github.com/kessedias/TreinamentoReact/blob/master/CONTRIBUTING.md).
 
 
 ***
