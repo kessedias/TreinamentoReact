@@ -1,0 +1,183 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+ol,
+ul {
+  list-style: none;
+}
+
+html {
+  width: 100%;
+  height: 100%;
+  font-family: "Open Sans Condensed", sans-serif;
+}
+body {
+  position: relative;
+  line-height: 1;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to right, #bd3f32, #cb356b);
+  background-repeat: no-repeat;
+}
+
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  max-width: 500px;
+  background: #f1f1f1;
+}
+
+.container:before {
+  background: #fff;
+  content: " ";
+  display: block;
+  height: 10px;
+  opacity: 0.5;
+  width: 480px;
+  top: -10px;
+  left: 10px;
+  position: absolute;
+}
+
+.container:after {
+  background: #fff;
+  content: " ";
+  display: block;
+  height: 10px;
+  opacity: 0.3;
+  width: 460px;
+  top: -20px;
+  left: 20px;
+  position: absolute;
+}
+
+.header {
+  text-align: center;
+  font-size: 24px;
+  letter-spacing: 1.2px;
+  word-spacing: 1.2px;
+  margin: 10px 0;
+  padding: 10px;
+}
+
+.list-item {
+  background: #ffffff;
+  border-top: 1px solid #cb356b;
+  height: 50px;
+  line-height: 50px;
+  padding: 0 15px 0 50px;
+  position: relative;
+  text-align: left;
+  padding-left: 25px;
+  color: #555;
+  word-spacing: 1.3px;
+  letter-spacing: 1.2px;
+  font-weight: bolder;
+}
